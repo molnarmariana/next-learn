@@ -9,7 +9,6 @@ import {
   CardsSkeleton,
 } from "@/app/ui/skeletons";
 
-import { SlashIcon } from "lucide-react";
 import {
   Breadcrumb,
   BreadcrumbItem,
